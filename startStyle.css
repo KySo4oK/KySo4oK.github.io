@@ -44,11 +44,6 @@ header nav a:last-child {margin-right:0;}
 div p span  {
     color: crimson;
 }
-/*div img {*/
-/*    width: 100%;*/
-/*    margin: 0;*/
-/*    padding: 0;*/
-/*    background-color:#000;*/
-/*    top: 0;*/
-/*    left: 0;*/
-/*}*/
+div p{
+    font-family: 'Comfortaa', cursive;
+}
