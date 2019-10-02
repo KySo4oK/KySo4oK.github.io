@@ -1,6 +1,6 @@
 body{
     color: #888;
-    max-width: 1004px;
+    max-width: max-content;
     max-height: 666px;
     margin: 0 auto;
 }
